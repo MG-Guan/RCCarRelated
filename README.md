@@ -1,7 +1,7 @@
 # Introduction
 This is a course project for McMaster University SEP-742. We implemented the lane-keeping for a four-wheeled car using legacy computer vision methods.
 
-## Demo
+## Demo Video
 [![Demo](https://img.youtube.com/vi/nsVGrZQ1r80/0.jpg)](https://www.youtube.com/watch?v=nsVGrZQ1r80&list=PL-WltkCZLf4pbiq5nPD7VYbRuJJEh1OGw&index=1)
 
 ## Everything Explained
